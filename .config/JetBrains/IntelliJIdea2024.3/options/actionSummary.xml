@@ -1,0 +1,103 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Delete">
+      <i c="8" l="1735593766234" />
+    </e>
+    <e n="$Undo">
+      <i c="5" l="1735595452136" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="109" l="1735597491795" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="1" l="1735566752196" />
+    </e>
+    <e n="EditorCopy">
+      <i c="6" l="1735595458675" />
+    </e>
+    <e n="EditorCut">
+      <i c="1" l="1735567482866" />
+    </e>
+    <e n="EditorDown">
+      <i c="11" l="1735596898652" />
+    </e>
+    <e n="EditorEnter">
+      <i c="49" l="1735595519691" />
+    </e>
+    <e n="EditorLeft">
+      <i c="6" l="1735595576629" />
+    </e>
+    <e n="EditorPaste">
+      <i c="37" l="1735597491120" />
+    </e>
+    <e n="EditorRight">
+      <i c="33" l="1735594430654" />
+    </e>
+    <e n="EditorSelectWord">
+      <i c="4" l="1735594429571" />
+    </e>
+    <e n="EditorUp">
+      <i c="13" l="1735595457339" />
+    </e>
+    <e n="EditorUpWithSelection">
+      <i c="1" l="1735595319910" />
+    </e>
+    <e n="ExternalSystem.DetachProject">
+      <i c="4" l="1735593616931" />
+    </e>
+    <e n="ExternalSystem.HideProjectRefreshAction">
+      <i c="1" l="1735595628724" />
+    </e>
+    <e n="ExternalSystem.ProjectRefreshAction">
+      <i c="13" l="1735595590592" />
+    </e>
+    <e n="ExternalSystem.RefreshAllProjects">
+      <i c="1" l="1735595630613" />
+    </e>
+    <e n="ExternalSystem.RunTask">
+      <i c="2" l="1735593965674" />
+    </e>
+    <e n="InsertInlineCompletionAction">
+      <i c="1" l="1735566771697" />
+    </e>
+    <e n="Kotlin.NewFile">
+      <i c="2" l="1735594347191" />
+    </e>
+    <e n="NewClass">
+      <i c="1" l="1735594245404" />
+    </e>
+    <e n="NewDir">
+      <i c="2" l="1735594342593" />
+    </e>
+    <e n="NewFile">
+      <i c="4" l="1735597323949" />
+    </e>
+    <e n="NewModuleInGroup">
+      <i c="2" l="1735565856113" />
+    </e>
+    <e n="RenameElement">
+      <i c="1" l="1735594302881" />
+    </e>
+    <e n="SaveAll">
+      <i c="69" l="1735597492450" />
+    </e>
+    <e n="ShowProjectStructureSettings">
+      <i c="6" l="1735595483826" />
+    </e>
+    <e n="com.intellij.notification.NotificationAction$Simple">
+      <i c="2" l="1735567934006" />
+    </e>
+    <e n="com.intellij.openapi.roots.ui.configuration.projectRoot.BaseStructureConfigurable$MyRemoveAction">
+      <i c="16" l="1735593809287" />
+    </e>
+    <e n="com.intellij.openapi.roots.ui.configuration.projectRoot.ModuleStructureConfigurable$AddModuleAction">
+      <i c="1" l="1735593721525" />
+    </e>
+    <e n="com.intellij.openapi.ui.MasterDetailsComponent$MyActionGroupWrapper">
+      <i c="2" l="1735593719955" />
+    </e>
+    <e n="com.intellij.ui.dsl.builder.components.SegmentedButtonAction">
+      <i c="1" l="1735565580030" />
+    </e>
+  </component>
+</application>

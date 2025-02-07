@@ -6,7 +6,11 @@ return {
         requires = { "kyazdani42/nvim-web-devicons" },
         config = function()
             require("nvim-tree").setup({
-                filters = { dotfiles = false },
+                filters = { 
+                    dotfiles = false,
+                    custom = {},
+                    exclude = { "scripts" },
+                },
                 renderer = {
                     icons = {
                         glyphs = {

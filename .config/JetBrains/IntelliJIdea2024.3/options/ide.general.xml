@@ -1,0 +1,11 @@
+<application>
+  <component name="GeneralSettings">
+    <option name="showTipsOnStartup" value="false" />
+  </component>
+  <component name="Registry">
+    <entry key="moved.to.new.ui" value="true" />
+    <entry key="ide.experimental.ui" value="true" />
+    <entry key="enable.connection.configuration.widget" value="false" />
+    <entry key="i18n.locale" value="" />
+  </component>
+</application>

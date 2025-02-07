@@ -1,0 +1,65 @@
+<application>
+  <component name="FileEditorProviderManager">{}</component>
+  <component name="LangManager">
+    <option name="languageName" value="JAVA" />
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontFace" value="Dialog" />
+    <option name="fontSize" value="12.0" />
+    <option name="presentationModeIdeScale" value="1.75" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "1",
+    "NewProjectWizard.addSampleCodeState": "false",
+    "NewProjectWizard.groupIdState": "com.bubblegraph",
+    "RunOnceActivity.VFSInitializationConditionsToFusReporter": "true",
+    "ask.about.ctrl.y.shortcut.v2": "true",
+    "build.toolwindow.Sync.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "build.toolwindow.run.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "com.intellij.ide.projectWizard.generators.JavaNewProjectWizard$Step.selectedStep": "IntelliJ",
+    "com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor": "Sources",
+    "defaultJdkConfigured": "true",
+    "enter_selection_count": "1",
+    "evlsprt3.243": "7",
+    "experimental.ui.on.first.startup": "true",
+    "experimental.ui.used.version": "243.22562.218",
+    "fileTypeChangedCounter": "1",
+    "fontSizeToResetConsole": "13.0",
+    "fontSizeToResetEditor": "13.0",
+    "input.method.disabler.muted": "true",
+    "installed.kotlin.plugin.version": "243.22562.218-IJ",
+    "jdk.selected.JAVA_MODULE": "jbr-21",
+    "kotlin.lastUpdateCheck": "1735565613903",
+    "kotlin.updates.whats.new.shown.for": "2.0.21",
+    "last.imported.location": "/home/emilj/repos/socialcircle/settings.gradle.kts",
+    "llm.installer.activate.toolwindow.delayed": "true",
+    "llm.installer.last.toolwindow.state": "LLM_INSTALLER",
+    "migrated.non.roamable.values.from.general.settings": "true",
+    "org.jetbrains.kotlin.tools.projectWizard.KotlinNewProjectWizard$Step.selectedStep": "Gradle",
+    "previousColorScheme": "_@user_Dark",
+    "project.wizard.group": "NPW.simple-module.Kotlin",
+    "registry.to.advanced.settings.migration.build": "IU-243.22562.218",
+    "rider.trace.scenarios": "",
+    "settings.code.style.selected.tab.JAVA": "Imports",
+    "settings.code.style.selected.tab.kotlin": "Imports",
+    "ts.lib.d.ts.version": "5.4.3"
+  },
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "/home/emilj/repos/socialcircle/sc-auth",
+      "/home/emilj/repos/socialcircle/settings.gradle.kts"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.intellij.profiler.ultimate.hprof.impl.HprofFileTypeDetector",
+      "com.intellij.docker.dockerFile.DockerFileTypeDetector",
+      "com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector",
+      "com.intellij.database.vfs.DbStorageFileType$Detector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+</application>
